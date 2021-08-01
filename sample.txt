@@ -1,4 +1,12 @@
-This is for the testing purpose 
-This is again for the same
-This is again for the same 2
-This is again for the same 3
+Git commands:
+
+for making pull req:
+git status(pop up the files that are changed)
+git add **files**
+git commit -m "Commit message"
+git checkout -b "branch-name"
+git push(pop's an error paste the command)
+git checkout "master branch"
+
+for cloning a repo:
+git clone "repo url"
